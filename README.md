@@ -11,7 +11,9 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.103-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+</div>
 
+---
 **NEXUS EXPLORERS** est une plateforme web complète permettant de prédire la présence d’exoplanètes à partir de données astronomiques réelles issues de la mission Kepler (NASA).
 
 Ce projet combine :
