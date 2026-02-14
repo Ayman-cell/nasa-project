@@ -1,10 +1,16 @@
-# 🚀 NEXUS EXPLORERS - Plateforme IA de Détection d’Exoplanètes
+# 🚀 NEXUS EXPLORERS - Plateforme IA de Détection d'Exoplanètes
 
-**Une application full-stack intelligente combinant Machine Learning avancé, API REST haute performance et visualisation 3D immersive**
+**Système full-stack combinant Machine Learning, API REST et interface 3D pour la prédiction d'exoplanètes**
 
----
+<div align="center">
 
-## 📋 Vue d'ensemble
+## 🌐 **[DÉCOUVRIR L'APPLICATION](https://nexus-explorer-v10.vercel.app/)** 🌐
+
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge)](https://vercel.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.103-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 **NEXUS EXPLORERS** est une plateforme web complète permettant de prédire la présence d’exoplanètes à partir de données astronomiques réelles issues de la mission Kepler (NASA).
 
@@ -17,13 +23,6 @@ Ce projet combine :
 - 🚀 Déploiement cloud prêt pour la production
 
 C’est une architecture full-stack complète démontrant des compétences avancées en développement logiciel moderne et en Machine Learning en production.
-
----
-
-## 🌐 Application en ligne
-
-👉 **Accéder à l'application :**  
-https://nexus-explorer-v10.vercel.app/
 
 ---
 
